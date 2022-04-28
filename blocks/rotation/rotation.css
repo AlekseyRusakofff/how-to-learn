@@ -9,9 +9,6 @@
   }
 }
 
-.header__square-pic {
+.rotation{
 animation: rotation-img 20s linear infinite running;
 }
-.kaufman__triangle {
-  animation: rotation-img 20s linear infinite running;
-  }
